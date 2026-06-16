@@ -8,14 +8,13 @@ const About: React.FC = () => {
         <div className="about-text">
           <h2>About Me</h2>
           <p>
-            I’m Abdul Haadi, a passionate full-stack developer who turns ideas into fast, responsive, and visually stunning digital experiences.
+           I'm Abdul Haadi, a Software Engineer passionate about building scalable, high-performance, and user-focused digital solutions.
 
-            I thrive on crafting modern web applications that don’t just work flawlessly but also feel intuitive and engaging to use. From pixel-perfect front-end designs to efficient back-end architectures, I love blending creativity with clean, scalable code.
+            I specialize in full-stack development, creating modern web applications that combine elegant design with robust functionality. From responsive front-end interfaces to secure and efficient back-end systems, I enjoy transforming complex ideas into seamless digital experiences.
 
-            When I’m not coding, you’ll find me exploring emerging tech trends, experimenting with new frameworks, or fine-tuning my skills to stay ahead in the ever-evolving world of development.
+            Driven by innovation and continuous learning, I constantly explore new technologies and development practices to deliver solutions that are reliable, impactful, and future-ready.
 
-            If you’re looking for innovation, reliability, and a dash of creativity, let’s make something amazing together!
-
+            Let's build something extraordinary together.
 
           </p>
           <a href="#contact" className="cta-btn">

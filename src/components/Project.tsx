@@ -12,9 +12,9 @@ const educationData: EducationItem[] = [
   {
     degree: "Bachelor of Software Engineering",
     institution: "Sir Syed University of Engineering & Technology (SSUET)",
-    startYear: "Oct 2022",
+    startYear: "Aug 2022",
     endYear: "Jul 2026",
-    details: "Undergraduate Software Engineer (SSUET'26)",
+    details: "Software Engineer",
   },
   {
     degree: "Fsc, Pre-Engineering",

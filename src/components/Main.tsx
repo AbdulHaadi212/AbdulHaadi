@@ -33,7 +33,6 @@ import bgLight30 from "../assets/images/Detector3.png";
 
 
 
-
 const App: React.FC = () => {
   return (
     <div>
@@ -43,7 +42,7 @@ const App: React.FC = () => {
         <div className="profile-picture"></div>
         <div className="home-content">
           <h1>Abdul Haadi</h1>
-          <p>Web Developer | Software Developer</p>
+          <p>Software Engineer</p>
         </div>
       </section>
 
