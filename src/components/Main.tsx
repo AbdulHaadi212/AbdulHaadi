@@ -53,9 +53,9 @@ const App: React.FC = () => {
           <div className="media-item">
             <h3>Project Gallery</h3>
             <div className="image-row">
-              <img src={bgLight7} alt="Project Image 1" className="image-left" />
-              <img src={bgLight8} alt="Project Image 2" className="image-center" />
-              <img src={bgLight9} alt="Project Image 3" className="image-right" />
+              <img src={bgLight7} alt="project 1" className="image-left" />
+              <img src={bgLight8} alt="project 2" className="image-center" />
+              <img src={bgLight9} alt="project 3" className="image-right" />
             </div>
 
           </div>
@@ -69,9 +69,9 @@ const App: React.FC = () => {
           <div className="media-item">
             <h3>Project Gallery</h3>
             <div className="image-row">
-              <img src={bgLight10} alt="Project Image 1" className="image-left" />
-              <img src={bgLight11} alt="Project Image 2" className="image-center" />
-              <img src={bgLight12} alt="Project Image 3" className="image-right" />
+              <img src={bgLight10} alt="project 1" className="image-left" />
+              <img src={bgLight11} alt="project 2" className="image-center" />
+              <img src={bgLight12} alt="project 3" className="image-right" />
             </div>
 
           </div>
@@ -85,9 +85,9 @@ const App: React.FC = () => {
           <div className="media-item">
             <h3>Project Gallery</h3>
             <div className="image-row">
-              <img src={bgLight25} alt="Project Image 1" className="image-left" />
-              <img src={bgLight26} alt="Project Image 2" className="image-center" />
-              <img src={bgLight27} alt="Project Image 3" className="image-right" />
+              <img src={bgLight25} alt="project 1" className="image-left" />
+              <img src={bgLight26} alt="project 2" className="image-center" />
+              <img src={bgLight27} alt="project 3" className="image-right" />
             </div>
 
           </div>
@@ -101,9 +101,9 @@ const App: React.FC = () => {
           <div className="media-item">
             <h3>Project Gallery</h3>
             <div className="image-row">
-              <img src={bgLight13} alt="Project Image 1" className="image-left" />
-              <img src={bgLight14} alt="Project Image 2" className="image-center" />
-              <img src={bgLight15} alt="Project Image 3" className="image-right" />
+              <img src={bgLight13} alt="project 1" className="image-left" />
+              <img src={bgLight14} alt="project 2" className="image-center" />
+              <img src={bgLight15} alt="project 3" className="image-right" />
             </div>
 
           </div>
@@ -117,9 +117,9 @@ const App: React.FC = () => {
           <div className="media-item">
             <h3>Project Gallery</h3>
             <div className="image-row">
-              <img src={bgLight16} alt="Project Image 1" className="image-left" />
-              <img src={bgLight17} alt="Project Image 2" className="image-center" />
-              <img src={bgLight18} alt="Project Image 3" className="image-right" />
+              <img src={bgLight16} alt="project 1" className="image-left" />
+              <img src={bgLight17} alt="project 2" className="image-center" />
+              <img src={bgLight18} alt="project 3" className="image-right" />
             </div>
 
           </div>
@@ -133,9 +133,9 @@ const App: React.FC = () => {
           <div className="media-item">
             <h3>Project Gallery</h3>
             <div className="image-row">
-              <img src={bgLight22} alt="Project Image 1" className="image-left" />
-              <img src={bgLight23} alt="Project Image 2" className="image-center" />
-              <img src={bgLight24} alt="Project Image 3" className="image-right" />
+              <img src={bgLight22} alt="project 1" className="image-left" />
+              <img src={bgLight23} alt="project 2" className="image-center" />
+              <img src={bgLight24} alt="project 3" className="image-right" />
             </div>
 
           </div>
@@ -149,9 +149,9 @@ const App: React.FC = () => {
           <div className="media-item">
             <h3>Project Gallery</h3>
             <div className="image-row">
-              <img src={bgLight19} alt="Project Image 1" className="image-left" />
-              <img src={bgLight20} alt="Project Image 2" className="image-center" />
-              <img src={bgLight21} alt="Project Image 3" className="image-right" />
+              <img src={bgLight19} alt="project 1" className="image-left" />
+              <img src={bgLight20} alt="project 2" className="image-center" />
+              <img src={bgLight21} alt="project 3" className="image-right" />
             </div>
 
           </div>
@@ -166,9 +166,9 @@ const App: React.FC = () => {
           <div className="media-item">
             <h3>Project Gallery</h3>
             <div className="image-row">
-              <img src={bgLight28} alt="Project Image 1" className="image-left" />
-              <img src={bgLight29} alt="Project Image 2" className="image-center" />
-              <img src={bgLight30} alt="Project Image 3" className="image-right" />
+              <img src={bgLight28} alt="project 1" className="image-left" />
+              <img src={bgLight29} alt="project 2" className="image-center" />
+              <img src={bgLight30} alt="project 3" className="image-right" />
             </div>
 
           </div>
@@ -188,9 +188,9 @@ const App: React.FC = () => {
           <div className="media-item">
             <h3>Project Gallery</h3>
             <div className="image-row">
-              <img src={bgLight1} alt="Project Image 1" className="image-left" />
-              <img src={bgLight2} alt="Project Image 2" className="image-center" />
-              <img src={bgLight3} alt="Project Image 3" className="image-right" />
+              <img src={bgLight1} alt="project 1" className="image-left" />
+              <img src={bgLight2} alt="project 2" className="image-center" />
+              <img src={bgLight3} alt="project 3" className="image-right" />
             </div>
 
           </div>
@@ -204,9 +204,9 @@ const App: React.FC = () => {
           <div className="media-item">
             <h3>Project Gallery</h3>
             <div className="image-row">
-              <img src={bgLight4} alt="Project Image 4" />
-              <img src={bgLight5} alt="Project Image 5" />
-              <img src={bgLight6} alt="Project Image 6" />
+              <img src={bgLight4} alt="project 4" />
+              <img src={bgLight5} alt="project 5" />
+              <img src={bgLight6} alt="project 6" />
             </div>
           </div>
         </div>
